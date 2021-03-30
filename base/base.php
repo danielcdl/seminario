@@ -26,7 +26,7 @@
           </li>
 
           <li class="nav-item active">
-            <a class="nav-link" aria-current="page" href="/compromissos/">compromissos</a>
+            <a class="nav-link" aria-current="page" href="/Agenda/">Agenda</a>
           </li>
           <!-- Items nav-bar -->
         </ul>

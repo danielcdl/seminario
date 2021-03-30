@@ -1,7 +1,5 @@
 <?php
-
-include 'C:\xampp\htdocs\seminario\base\base.php';
-include 'dadoscalendario.php';
+include '../base/base.php';
 ?>
 
 <div class="container mt-5">
@@ -99,5 +97,5 @@ include 'dadoscalendario.php';
 </div>
 
 <?php
-include 'C:\xampp\htdocs\seminario/base/footer.php'
+include 'base/footer.php'
 ?>

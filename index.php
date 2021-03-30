@@ -1,10 +1,15 @@
 <?php
-include 'base.php';
+include 'base/base.php';
 ?>
-
-<h1>index<h1>
+<div class="container mt-5">
+	<div class="row mt-5 ">
+		<div class="col">	
+      <h1>index</h1>
+		</div>
+	</div>
+</div>
 
 <?php
-include 'footer.php';
+include 'base/footer.php';
 ?>
 
