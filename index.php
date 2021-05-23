@@ -7,8 +7,7 @@ include 'base/base.php';
       <h1>index</h1>
 		</div>
 	</div>
-</div>
-
+</div
 <?php
 include 'base/footer.php';
 ?>
