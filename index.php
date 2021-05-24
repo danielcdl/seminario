@@ -1,14 +1,11 @@
-<?php
-include 'base/base.php';
-?>
-<div class="container mt-5">
-	<div class="row mt-5 ">
-		<div class="col">	
-      <h1>index</h1>
-		</div>
-	</div>
-</div
-<?php
-include 'base/footer.php';
-?>
+<?php include 'templates/header.html'; ?>
 
+
+<img class="img-fluid" src="static/img/banner1.jpg" alt="Banner">
+
+<h1>Clínica Viver Mais</h1>
+
+
+<?php include 'templates/footer.html'; ?>
+
+   

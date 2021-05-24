@@ -1,0 +1,57 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.menu{
+  background-color: #2c9caa;
+}
+
+.menu img{
+  height: 50px;
+  width: 50px;
+  margin-top: 20px;
+}
+
+.menu a { 
+  color: inherit; 
+} 
+
+.fa-cog {
+  color: black;
+}
+
+p {
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.sub-titulo {
+  margin-top: 30px;
+  color: white;
+  text-align: center;
+  /* font-weight: bold; */
+  font-size: 16px;
+}
+
+
+.banner h6{
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 16px;
+  position: absolute;
+}
+
+/*  Sessão Sobre*/
+
+.sobre h1{
+  padding: 2% auto;
+  margin-top: -8px;
+  width: 10%;
+  max-height: 700px;
+  margin-left: 10%;
+  min-width: 1203px;
+}
